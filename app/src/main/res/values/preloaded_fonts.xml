@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/barrio</item>
+        <item>@font/courgette</item>
+        <item>@font/la_belle_aurore</item>
+        <item>@font/paprika</item>
+        <item>@font/quicksand_light</item>
+        <item>@font/snowburst_one</item>
+    </array>
+</resources>

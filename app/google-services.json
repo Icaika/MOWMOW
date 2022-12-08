@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656196583213",
+    "firebase_url": "https://bike-rental-app-4c471-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bike-rental-app-4c471",
+    "storage_bucket": "bike-rental-app-4c471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656196583213:android:f00662c5f5d2cf8cdb5da4",
+        "android_client_info": {
+          "package_name": "com.myapp.rentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656196583213-mq54dc667ks5r3t412of2fpno58s8jt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.rentalapp",
+            "certificate_hash": "d931425bfbae6788115bb4963346fbd17e99aec1"
+          }
+        },
+        {
+          "client_id": "656196583213-8juid1477d4aubq62essonr8jua6965q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh1_koVHL1mS3uQoOQQmx1Ylai2PDBTx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656196583213-8juid1477d4aubq62essonr8jua6965q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
